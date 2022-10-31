@@ -21,4 +21,7 @@ def handle_event(at: Atri, req: Request, res: Response):
     This function is called whenever an event is received. An event occurs when user
     performs some action such as click button.
     """
+    # Add your code here to insert data in the Bar chart
+    # Show site name on the x-axis of bar chart and unique view on y axis
+    # You can access the bar chart by at.unique_view_chart
     pass
