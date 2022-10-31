@@ -5,6 +5,11 @@ name = "pypi"
 
 [packages]
 atri = "*"
+fastapi = "==0.84.0"
+uvicorn = "*"
+jsonpickle = "*"
+python-multipart = "*"
+atri-utils = "*"
 
 [dev-packages]
 
