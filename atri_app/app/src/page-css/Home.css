@@ -1,1 +1,38 @@
-
+.p-Home.Flex1 {
+display: flex;
+align-items: center;
+column-gap: 20px;
+padding-left: 40px;
+padding-right: 0px;
+padding-bottom: 10px;
+padding-top: 10px;
+background-color: #312e81;
+color: #fffdfd;
+font-family: IBM Plex Sans;
+}
+.p-Home.Flex2 {
+display: flex;
+justify-content: center;
+margin-top: ;
+padding-top: 40px;
+padding-bottom: 40px;
+flex-direction: column;
+row-gap: 20px;
+align-items: center;
+}
+.p-Home.Image1 {
+width: ;
+height: 24px;
+}
+.p-Home.TextBox1 {
+;
+}
+.p-Home.unique_view_chart {
+;
+}
+.p-Home.TextBox2 {
+font-family: IBM Plex Sans;
+width: 400px;
+border-bottom-style: solid;
+border-bottom-color: #cbd5e1;
+}

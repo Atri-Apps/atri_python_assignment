@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "italic",
+          "fontWeight": 100
+        },
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "italic",
+          "fontWeight": 200
+        },
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "italic",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "italic",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "italic",
+          "fontWeight": 500
+        },
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "italic",
+          "fontWeight": 600
+        },
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "italic",
+          "fontWeight": 700
+        },
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 100
+        },
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 200
+        },
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        },
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 600
+        },
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 700
+        }
+      ]
+    }
+  }
+]

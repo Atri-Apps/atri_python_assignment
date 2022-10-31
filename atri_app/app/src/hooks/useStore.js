@@ -39,7 +39,72 @@ export function updateStoreStateFromController(pageName, newState) {
 
 const desktopModeProps = {
   ...{
-  "Home": {}
+  "Home": {
+    "Flex1": {
+      "callbacks": {}
+    },
+    "Flex2": {
+      "callbacks": {}
+    },
+    "Image1": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/trend.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox1": {
+      "custom": {
+        "text": "Traffic Monitor"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "unique_view_chart": {
+      "custom": {
+        "data": [],
+        "xAxis": {
+          "show": true,
+          "key": "x"
+        },
+        "yAxis": {
+          "show": true
+        },
+        "toolTip": {
+          "show": true
+        },
+        "legend": {
+          "show": true
+        },
+        "chartHeight": 400,
+        "chartWidth": 400
+      },
+      "callbacks": {}
+    },
+    "TextBox2": {
+      "custom": {
+        "text": "👀 Unique views"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    }
+  }
 }};
 
 useStore.setState(desktopModeProps);

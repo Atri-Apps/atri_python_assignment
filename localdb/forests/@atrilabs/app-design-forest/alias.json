@@ -1,1 +1,6 @@
-{}
+{
+  "Flex": 2,
+  "Image": 1,
+  "TextBox": 2,
+  "BarChart": 1
+}
