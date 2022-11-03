@@ -1,4 +1,10 @@
+# Generated files
 atri_app/
-.idea/
 controllers/**/atri.py
+
+# IDE specific
+.vscode
+.idea/*
+
+# Misc
 .DS_Store
